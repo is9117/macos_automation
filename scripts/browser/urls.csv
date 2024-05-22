@@ -1,0 +1,6 @@
+filename,url
+eks,https://ap-northeast-2.console.aws.amazon.com/eks/home?region=ap-northeast-2
+elb,https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2#LoadBalancers
+rds,https://ap-northeast-2.console.aws.amazon.com/rds/home?region=ap-northeast-2#databases:
+s3,https://ap-northeast-2.console.aws.amazon.com/s3/home?region=ap-northeast-2#
+secretsmanager,https://ap-northeast-2.console.aws.amazon.com/secretsmanager/listsecrets?region=ap-northeast-2
