@@ -1,0 +1,3 @@
+name,select_contidion,title
+vscode_backend,.app == "Code" or .app == "Electron",memo-service-backend
+vscode_infra,.app == "Code" or .app == "Electron",memo-care-infra
