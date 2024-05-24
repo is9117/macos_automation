@@ -4,3 +4,4 @@ elb,https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2
 rds,https://ap-northeast-2.console.aws.amazon.com/rds/home?region=ap-northeast-2#databases:
 s3,https://ap-northeast-2.console.aws.amazon.com/s3/home?region=ap-northeast-2#
 secretsmanager,https://ap-northeast-2.console.aws.amazon.com/secretsmanager/listsecrets?region=ap-northeast-2
+cloudwatch,https://ap-northeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-northeast-2#logsV2:log-groups
