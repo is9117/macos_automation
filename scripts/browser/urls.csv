@@ -7,3 +7,5 @@ secretsmanager,https://ap-northeast-2.console.aws.amazon.com/secretsmanager/list
 cloudwatch,https://ap-northeast-2.console.aws.amazon.com/cloudwatch/home?region=ap-northeast-2#logsV2:log-groups
 ec2,https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2#Instances:instanceState=running
 ecr,https://ap-northeast-2.console.aws.amazon.com/ecr/private-registry/repositories?region=ap-northeast-2
+iam,https://us-east-1.console.aws.amazon.com/iam/home?region=ap-northeast-2#/home
+lambda,https://ap-northeast-2.console.aws.amazon.com/lambda/home?region=ap-northeast-2#/functions
