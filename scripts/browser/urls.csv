@@ -9,3 +9,5 @@ ec2,https://ap-northeast-2.console.aws.amazon.com/ec2/home?region=ap-northeast-2
 ecr,https://ap-northeast-2.console.aws.amazon.com/ecr/private-registry/repositories?region=ap-northeast-2
 iam,https://us-east-1.console.aws.amazon.com/iam/home?region=ap-northeast-2#/home
 lambda,https://ap-northeast-2.console.aws.amazon.com/lambda/home?region=ap-northeast-2#/functions
+redis,https://ap-northeast-2.console.aws.amazon.com/elasticache/home?region=ap-northeast-2#/redis
+ecs,https://ap-northeast-2.console.aws.amazon.com/ecs/v2/clusters?region=ap-northeast-2
